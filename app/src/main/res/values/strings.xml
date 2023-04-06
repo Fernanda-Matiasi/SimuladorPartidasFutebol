@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PartidaJogos</string>
+    <string name="cd_simulate">Botão de simulação de partida</string>
+    <string name="cd_home_team">Imagem do time mandante.</string>
+    <string name="txt_versus">X</string>
+    <string name="cd_away_time">Imagem do time visitante.</string>
+</resources>
